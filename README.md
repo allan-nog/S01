@@ -1,1 +1,1 @@
-# S01
+# S01 - Paradigmas da Programação
